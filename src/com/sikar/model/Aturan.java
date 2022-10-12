@@ -8,7 +8,7 @@ package com.sikar.model;
  *
  * @author admin01
  */
-public class Aturan {
+public class Rule {
     private String kode_aturan;
     private String jika;
     private String maka;
